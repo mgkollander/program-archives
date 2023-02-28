@@ -4,4 +4,5 @@
 - Takes a user string and checks if it is accepted in the DFA
 
 ## How do I run this program?
-In your terminal, run "python DFA.py".
+- In your terminal, run "python DFA.py".
+- Check examples.md for example inputs
